@@ -18,6 +18,8 @@ For SBC audio, each SBC frame represents 128 audio samples.
 
 The patch is applied only in RAM and is removed automatically when the iPod is rebooted.
 
+After patch, iPod should play audio, and have support for play, pause, skip, reconnecting in range.
+
 ## Compatibility
 
 Currently tested with:
@@ -124,12 +126,16 @@ Use at your own risk.
 
 ## Credits
 
+Made By Merquice
+
 Built using:
 
-- NanoApps by nfzerox
+- NanoApps by nfzerox, couldn't have been made without it!
 - iPod nano reverse-engineering work from the iPod homebrew community
 
 Special thanks to everyone contributing tools and research for the iPod nano 7th generation.
+
+If you have any questions, id be happy to help.
 
 ## License
 
