@@ -1,5 +1,7 @@
 # NanoBtFix
 
+WILL REQUIRE LINUX OS; I RECOMMEND UNBUNTU 24.XX.
+
 NanoBtFix is a NanoApps application for the **7th-generation iPod nano** that applies a RAM-only Bluetooth A2DP compatibility patch.
 
 It was created to improve Bluetooth audio compatibility with newer headphones and earbuds that can pair with the iPod nano but fail to play audio correctly.
@@ -25,11 +27,11 @@ After patch, iPod should play audio, and have support for play, pause, skip, rec
 Currently tested with:
 
 - iPod nano 7th generation
-- iPod firmware 1.1.2 environment
+- iPod firmware 1.1.2 environment, installed through ipod_sun
 - NanoApps
 - AirPods Pro 2
 
-Other Bluetooth headphones may also benefit, but have not necessarily been tested.
+I have only tested Airpod Pro 2's, other headphones should benefit. 
 
 ## Installation
 
@@ -37,7 +39,7 @@ First install NanoApps:
 
 https://github.com/nfzerox/NanoApps
 
-Then clone NanoBtFix:
+Then clone NanoBtFix (install through terminal on Unbuntu, copy and paste these lines):
 
     git clone https://github.com/Merquice/NanoBtFix.git
 
@@ -122,7 +124,7 @@ NanoBtFix modifies executable firmware code in RAM.
 
 Although the patch is temporary and disappears after reboot, low-level firmware modification always carries some risk.
 
-Use at your own risk.
+Use at your own risk! I am not responsible if you damage your Nano.
 
 ## Credits
 
@@ -130,12 +132,13 @@ Made By Merquice
 
 Built using:
 
-- NanoApps by nfzerox, couldn't have been made without it!
+- NanoApps by nfzerox on github, couldn't have been made without it!
 - iPod nano reverse-engineering work from the iPod homebrew community
+- ipod_sun by CUB3D on github.
 
 Special thanks to everyone contributing tools and research for the iPod nano 7th generation.
 
-If you have any questions, id be happy to help.
+If you have any questions, i'd be happy to help.
 
 ## License
 
