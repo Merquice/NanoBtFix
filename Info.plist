@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>org.nanoapps.nanobtfix</string>
+
+    <key>CFBundleName</key>
+    <string>NanoBtFix</string>
+
+    <key>CFBundleExecutable</key>
+    <string>nanobtfix</string>
+
+    <key>HBAppKind</key>
+    <integer>1</integer>
+
+    <key>HBIconGlyph</key>
+    <string>circle</string>
+
+    <key>HBIconColor</key>
+    <string>#69809d</string>
+</dict>
+</plist>
