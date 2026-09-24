@@ -35,7 +35,7 @@ I have only tested Airpod Pro 2's, other headphones should benefit.
 
 ## Installation
 
-First install NanoApps (zip also included to change icons, or code):
+First install NanoApps:
 
 https://github.com/nfzerox/NanoApps
 
