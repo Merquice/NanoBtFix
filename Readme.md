@@ -138,7 +138,7 @@ Built using:
 
 Special thanks to everyone contributing tools and research for the iPod nano 7th generation.
 
-If you have any questions, i'd be happy to help.
+If you have any questions, i'd be happy to help! Just leave a comment.
 
 ## License
 
