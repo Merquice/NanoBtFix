@@ -1,6 +1,6 @@
 # NanoBtFix
 
-WILL REQUIRE LINUX OS; I RECOMMEND UNBUNTU 24.XX.
+WILL REQUIRE LINUX OS; I RECOMMEND UNBUNTU 24.04.5 LTS.
 
 NanoBtFix is a NanoApps application for the **7th-generation iPod nano** that applies a RAM-only Bluetooth A2DP compatibility patch.
 
