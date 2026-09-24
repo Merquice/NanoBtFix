@@ -20,7 +20,7 @@ For SBC audio, each SBC frame represents 128 audio samples.
 
 The patch is applied only in RAM and is removed automatically when the iPod is rebooted.
 
-After patch, iPod should play audio, and have support for play, pause, skip, reconnecting in range.
+After patch, iPod should play audio, and have support for play, pause, skip, reconnecting in range. Audio may be very loud, adjust on your headphones and iPod before playing!
 
 ## Compatibility
 
